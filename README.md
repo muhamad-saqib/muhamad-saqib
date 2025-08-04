@@ -11,6 +11,11 @@
 - Artificial Intelligence & Machine Learning
 - Data Science
 
+## Certifications
+
+- [Python for Everybody Specialization – University of Michigan (Coursera)] *In Progress*  
+
+
 ## Skills
 - Programming: `Python`, `HTML`, `CSS`
 - Machine Learning: `Algorithms`, `Model Training and Testing`
@@ -23,4 +28,4 @@
 
 ---
 
-> *“Perfection Is A Lie.”*
+>                   *“Perfection Is A Lie.”*
