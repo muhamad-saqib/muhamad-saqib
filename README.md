@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Saqib
 
- I am a BSCS student at SZABIST University, passionate about **Python**, **Web Development**, and **Artificial Intelligence**. I love building real-world applications that solve real problems.
+ I am a BSCS student at SZABIST University, passionate about **Python**, **Web Development**, and **Artificial Intellig/Machine Learning**. I love building real-world applications that solve real problems.
 
 ## Projects I'm Working On
 - **Python Academy** – An interactive Python learning platform with lessons, quizzes, code editor, mentor support & progress tracking.
